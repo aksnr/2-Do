@@ -1,5 +1,5 @@
 
-const API_URL = 'http://localhost:5000/api/tasks';
+const API_URL = 'https://two-do-backend-pbuf.onrender.com/api/tasks';
 
 const taskInput = document.getElementById('taskInput');
 const addTaskBtn = document.getElementById('addTaskBtn');
